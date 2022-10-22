@@ -1,0 +1,33 @@
+.row{
+    padding:25px 20px 0px 20px;
+    background-color: rgb(48, 78, 89);
+}
+.card-header{
+  background-color: black;
+  color:white;
+  text-align:center;
+}
+.card-body{
+  text-align:center;
+  background-image: linear-gradient(to right, rgb(216,198,161),rgb(67,85,83));
+  color:white;
+
+}
+.card-img-top{
+    width:100%;
+    height:210px;
+    margin-bottom: 10px;
+}
+
+button.btn:hover{
+color:rgb(221, 223, 225)
+}
+button.btn.btn-primary {
+  background-color: none;
+  background: none;
+  border:1px solid rgb(245, 240, 240);
+}
+/* button.btn:focus{
+  background-color: none;
+  background: none;
+} */
